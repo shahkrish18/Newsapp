@@ -1,0 +1,221 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "status": "ok",
+      "totalResults": 34,
+      "articles": [
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "TIMESOFINDIA.COM",
+          "title": "There's a giant 'gravity hole' in Indian Ocean and scientists have finally figured out how it was formed - Indiatimes.com",
+          "description": "Trending News: The giant 'gravity hole' was formed 20 million years ago and it always remained a mystery.",
+          "url": "https://timesofindia.indiatimes.com/etimes/trending/theres-a-giant-gravity-hole-in-indian-ocean-and-scientists-have-finally-figured-out-how-it-was-formed/articleshow/101515305.cms",
+          "urlToImage": "https://static.toiimg.com/thumb/msid-101515285,width-1070,height-580,imgsize-1303176,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "publishedAt": "2023-07-05T12:30:00Z",
+          "content": "Makers of big movies always look for a unique day to release their projects and avoid clashing with other films at the box office. However, quite often movies release on the same date or around the s… [+278 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Sporting News" },
+          "author": null,
+          "title": "Man Utd reveal Mason Mount's new shirt number as Alejandro Garnacho is snubbed for role as Cristiano Ronaldo's successor - Goal.com",
+          "description": "Get all the latest Soccer news, highlights, scores, schedules, standings and more from Sporting News Canada.",
+          "url": "https://www.sportingnews.com/ca/soccer",
+          "urlToImage": "https://static.sportingnews.com/1.33.1.6/themes/custom/tsn/logo.jpg",
+          "publishedAt": "2023-07-05T11:48:09Z",
+          "content": null
+        },
+        {
+          "source": { "id": null, "name": "Hindustan Times" },
+          "author": "HT Tech",
+          "title": "Major leak reveals iPhone 15 can get a BIG battery boost - HT Tech",
+          "description": "if you’ve been planning to purchase the iPhone 15 upon launch, Apple might have given you one more reason to go for it as iPhone 15 could feature larger batteries.",
+          "url": "https://tech.hindustantimes.com/mobile/news/major-leak-reveals-iphone-15-can-get-a-big-battery-boost-71688554781342.html",
+          "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/05/1600x900/nubelson-fernandes-S8xWhJFidWQ-unsplash_1688554983813_1688554996376.jpg",
+          "publishedAt": "2023-07-05T11:04:24Z",
+          "content": "The iPhones have always delivered strong performance and great cameras, but they have never been known to have an amazing battery life. While your iPhone 13 or iPhone 14 will get you through the day,… [+1911 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Business Standard" },
+          "author": null,
+          "title": "OnePlus Nord 3 5G and OnePlus Nord CE 3 will launch today at Summer event - Business Standard",
+          "description": "OnePlus will launch OnePlus Nord 3 5G and OnePlus Nord CE 3 5G smartphones today at OnePlus Summer Launch Event. Check out more details about the event below",
+          "url": "https://www.business-standard.com/technology/tech-news/oneplus-nord-3-5g-and-oneplus-nord-ce-3-will-launch-today-at-summer-event-123070500518_1.html",
+          "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-07/05/full/1688553089-3405.png",
+          "publishedAt": "2023-07-05T10:37:43Z",
+          "content": "OnePlus will launch OnePlus Nord 3 5G and OnePlus Nord CE 3 5G smartphones today at OnePlus Summer Launch Event. Check out more details about the event below\r\nSudeep Singh RawatNew DelhiOnePlus set t… [+1925 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Deccan Chronicle" },
+          "author": "DC Correspondent",
+          "title": "Hyderabad: 12 persons stuck in elevator at shopping mall for over an hour, rescued - Deccan Chronicle",
+          "description": "Hyderabad: 12 persons stuck in elevator at shopping mall for over an hour, rescued",
+          "url": "https://www.deccanchronicle.com/nation/current-affairs/050723/hyderabad-12-persons-stuck-in-elevator-at-shopping-mall-for-over-an-h.html",
+          "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-bamrg5tupsjso6pi3v7tma9rv7-20230705154821.Medi.jpeg",
+          "publishedAt": "2023-07-05T10:21:54Z",
+          "content": "After repeated attempts by the mall staff failed to rescue them, the group reached out to the fire department and police."
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "Nikhil Agarwal",
+          "title": "Maruti Suzuki shares cross Rs 10,000 milestone for first time on Invicto SUV launch - Economic Times",
+          "description": "Invicto marks Maruti's entry into the premium three-row segment, as it looks to gain a foothold in the above Rs 20 lakh segment with the new model after having attained leadership in the Rs 15-20 lakh vehicle segment last fiscal. Price of the new car's 7-seat…",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-cross-rs-10000-milestone-for-first-time-on-invicto-suv-launch/articleshow/101514502.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-101514466,width-1070,height-580,imgsize-44436,overlay-etmarkets/photo.jpg",
+          "publishedAt": "2023-07-05T09:57:00Z",
+          "content": "NEW DELHI: Shares of Maruti Suzuki India on Wednesday rallied 4% to cross the Rs 10,000 milestone for the first time ever after India's largest car maker launched its new SUV Invicto.The Nifty stock … [+2490 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Thehealthsite.com" },
+          "author": "Longjam Dineshwori",
+          "title": "Childhood Diabetes: Largest increase in diabetes cases seen in children aged 10 to 14 years | TheHealthSit - TheHealthSite",
+          "description": "Globally cases of childhood diabetes increased by 40 per cent in 2019 from 1990 according to a study published in JAMA Network journal. TheHealthSite.com",
+          "url": "https://www.thehealthsite.com/news/india-reported-highest-number-of-childhood-diabetes-and-deaths-in-2019-in-the-world-990088/",
+          "urlToImage": "https://st1.thehealthsite.com/wp-content/uploads/2023/07/Childhood-Diabetes.jpg",
+          "publishedAt": "2023-07-05T09:35:00Z",
+          "content": "Maximum increase in diabetes cases was recorded in children aged 10 to 14 years. \r\nGlobally, cases of childhood diabetes increased by 40 per cent in 2019 from 1990, according to a study published in … [+2297 chars]"
+        },
+        {
+          "source": { "id": null, "name": "NDTV News" },
+          "author": null,
+          "title": "\"Not One Senior Player Among Them...\": Stuart Broad Bewildered Over Australia's Act In Jonny Bairsto.. - NDTV Sports",
+          "description": "Stuart Broad opened up about the ongoing discussion regarding the Jonny Bairstow dismissal and explained his point of view.",
+          "url": "https://sports.ndtv.com/ashes-2023/not-one-senior-player-among-them-stuart-broad-bewildered-over-australias-act-in-jonny-bairstow-ashes-episode-4176870",
+          "urlToImage": "https://c.ndtvimg.com/2023-07/hcgda6kg_jonny-bairstow-afp_625x300_04_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+          "publishedAt": "2023-07-05T09:32:40Z",
+          "content": "The conversation over Jonny Bairstow's controversial dismissal during the second Ashes Test match between England and Australia at Lord's has led to a broader conversation over the 'spirit of cricket… [+1966 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Bar & Bench - Indian Legal News" },
+          "author": "Bar & Bench",
+          "title": "Lawyers clash, fire shots in Delhi's Tis Hazari Court - Bar & Bench - Indian Legal News",
+          "description": "Tis Hazari District Court in Delhi witnessed a firing incident on Wednesday. As per the local police, two groups of lawyers including office bearers of the bar",
+          "url": "https://www.barandbench.com/news/litigation/lawyers-clash-fire-shots-delhis-tis-hazari-court",
+          "urlToImage": "https://gumlet.assettype.com/barandbench%2F2021-11%2Fea53400d-c5c2-4548-9d38-43a981cde08a%2F57.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+          "publishedAt": "2023-07-05T09:25:36Z",
+          "content": "As per the local police, two groups of lawyers including office bearers of the bar association allegedly fired shots in the air after an argument. \r\nHowever, the police clarified that no one was inju… [+113 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Hindustan Times" },
+          "author": "HT Tech",
+          "title": "CME attack threatens Earth with DANGEROUS solar storm, shows NASA SOHO; 1-2 punch likely - HT Tech",
+          "description": "Two Earth-directed CMEs have been detected by NASA’s Solar and Heliospheric Observatory. They are expected to hit the Earth on July 7 and can spark a powerful solar storm. Check details.",
+          "url": "https://tech.hindustantimes.com/tech/news/cme-attack-threatens-earth-with-dangerous-solar-storm-shows-nasa-soho-1-2-punch-likely-71688548685068.html",
+          "urlToImage": "https://images.hindustantimes.com/tech/img/2023/07/05/1600x900/sun-2224937_1280_1677654423439_1688548730714.jpg",
+          "publishedAt": "2023-07-05T09:22:02Z",
+          "content": "After an amazing sunspot-filled June, July appears set to continue the trend of extreme solar volatility. We have already seen a radio blackout this month after a solar flare erupted on the notorious… [+2395 chars]"
+        },
+        {
+          "source": { "id": null, "name": "The Siasat Daily" },
+          "author": "News Desk",
+          "title": "IIT Hyderabad researchers find evidence for ‘humming’ of Universe - The Siasat Daily",
+          "description": "A team of researchers from IITH who were part of an international team of astronomers have found evidence for the 'humming' of the Universe.",
+          "url": "https://www.siasat.com/iit-hyderabad-researchers-find-evidence-for-humming-of-universe-2632381/",
+          "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2023/07/Free-Medical-Camp-85.jpg",
+          "publishedAt": "2023-07-05T08:54:00Z",
+          "content": "Hyderabad: A team of researchers from IIT Hyderabad (IITH) who were part of an international team of astronomers from India, Japan, and Europe have found evidence for the ‘humming’ of the Universe, t… [+3502 chars]"
+        },
+        {
+          "source": { "id": null, "name": "The Siasat Daily" },
+          "author": "Press Trust of India",
+          "title": "Kishan Reddy skips Cabinet meet after becoming Telangana BJP chief - The Siasat Daily",
+          "description": "A day after becoming Telangana BJP president, Union minister G Kishan Reddy skipped the cabinet meeting chaired by PM Modi on Wednesday.",
+          "url": "https://www.siasat.com/kishan-reddy-skips-cabinet-meet-after-becoming-telangana-bjp-chief-2632365/",
+          "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2022/02/Kishan-reddy-Ring-road.jpg",
+          "publishedAt": "2023-07-05T08:49:00Z",
+          "content": "New Delhi: A day after his appointment as the Telangana BJP president, Union minister G Kishan Reddy skipped the meeting of the Cabinet chaired by Prime Minister Narendra Modi on Wednesday.\r\nThough n… [+1161 chars]"
+        },
+        {
+          "source": { "id": null, "name": "News18" },
+          "author": "Sanstuti Nath",
+          "title": "Ajit Pawar News LIVE: Bhujbal Asks Sharad Pawar to 'Remove Middlemen' as 30+ MLAs of Team Ajit Gather; 14 L - News18",
+          "description": "Maharashtra Political Crisis Live Updates: Maharashtra Deputy CM Ajit Pawar said that support for Prime Minister Narendra Modi is unprecedented, and urged people to vote for Modi because of his 'charismatic image'",
+          "url": "https://www.news18.com/politics/ajit-pawar-maharashtra-politics-crisis-live-updates-sharad-pawar-ncp-govt-shiv-sena-bjp-livenews-8251999.html",
+          "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/07/untitled-design-2023-07-04t153252.087-168846525816x9.jpg",
+          "publishedAt": "2023-07-05T08:44:42Z",
+          "content": "Jul 05, 2023 18:40 ISTAjit Pawar Cited Resolution Signed by 40 MLAs Electing Him as NCP National President: ECI\r\nThe Election Commission of India confirmed receiving petition by Ajit Pawar in which h… [+8666 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Moneycontrol" },
+          "author": "Moneycontrol News",
+          "title": "Tomatoes now costlier than petrol in these cities. The top rank holder is... - Moneycontrol",
+          "description": "According to data from the Ministry of Consumer Affairs, the average retail price for tomatoes across India is ₹83.29 per kg.",
+          "url": "https://www.moneycontrol.com/news/trends/tomatoes-now-costlier-than-petrol-in-these-cities-the-top-rank-holder-is-10908461.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/07/6-india-tomato-price-surge-770x433.jpg",
+          "publishedAt": "2023-07-05T08:03:34Z",
+          "content": "Tomato prices in India have soared to unprecedented levels, causing significant financial strain on citizens across the country. In some cities, the cost of this essential vegetable has skyrocketed t… [+2487 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Moneycontrol" },
+          "author": "Sunil Shankar Matkar",
+          "title": "Senco Gold IPO booked 2.07 times by second day of bidding - Moneycontrol",
+          "description": "Senco Gold IPO | The debt to equity of the company stands at 1.25x for FY23 as compared to industry average of 0.80x, which can create pressure on the future prospects of the company, Canara Bank Securities feels",
+          "url": "https://www.moneycontrol.com/news/business/ipo/senco-gold-ipo-gets-fully-booked-by-second-day-of-bidding-10908031.html",
+          "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/05/Senco_May15-770x433.jpg",
+          "publishedAt": "2023-07-05T07:34:31Z",
+          "content": "The public issue of Senco Gold has received good response from investors, especially retail and high net-worth individuals, with 2.3 times subscription through bids for 2.16 crore equity shares again… [+3681 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "TIMESOFINDIA.COM",
+          "title": "Samantha Ruth Prabhu returns advance payments to producers as she is taking year-long break from acting to focus on her health: Report - Indiatimes.com",
+          "description": "Samantha Ruth Prabhu is battling an autoimmune condition called Myositis and now if latest reports are to be believed, the actress has decided to take a break from acting so that she can focus on her health. A source was quoted saying to a news porta",
+          "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/samantha-ruth-prabhu-returns-advance-payments-to-producers-as-she-is-taking-year-long-break-from-acting-to-focus-on-her-health-report/videoshow/101509397.cms",
+          "urlToImage": "https://timesofindia.indiatimes.com/photo/101509397/size-38474/101509397.jpg",
+          "publishedAt": "2023-07-05T07:28:12Z",
+          "content": "Samantha Ruth Prabhu\r\n is battling an autoimmune condition called Myositis\r\n and now if latest reports are to be believed, the actress has decided to take a break from acting so that she can focus on… [+1284 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Newsclick.in" },
+          "author": null,
+          "title": "Spread of Antibiotic Resistant Genes Among Bacteria Can be Restricted With Proper Sanitation and Water Facilities, Finds Study - NewsClick",
+          "description": "A major global public health concern is the rise of antibiotic resistance amongst bacteria, study highlights the role of environmental transmission of antibiotic resistance in settings with inadequate sanitation.",
+          "url": "https://www.newsclick.in/spread-antibiotic-resistant-genes-among-bacteria-can-be-restricted-proper-sanitation-and-water",
+          "urlToImage": "https://www.newsclick.in/sites/default/files/2023-07/drinking%20water.jpg",
+          "publishedAt": "2023-07-05T06:46:33Z",
+          "content": "Clean water and proper sanitation facilities can be very effective in curbing the rise of antibiotic resistance amongst many bacteria, especially in urban areas in Africa and Southeast Asia, a Lancet… [+4270 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Bar & Bench - Indian Legal News" },
+          "author": "Ayesha Arvind",
+          "title": "V Senthil Balaji Habeas Corpus plea in Madras High Court assigned to Justice CV Karthikeyan to break the split verdict tie - Bar & Bench - Indian Legal News",
+          "description": "The Habeas Corpus plea filed before the Madras High Court for release of Tamil Nadu minister Senthil Balaji has been assigned to Justice CV Karthikeyan by Chief",
+          "url": "https://www.barandbench.com/news/v-senthil-balaji-habeas-corpus-plea-in-madras-high-court-assigned-to-justice-cv-karthikeyan-to-break-the-split-verdict-tie",
+          "urlToImage": "https://gumlet.assettype.com/barandbench%2F2023-07%2F25fed342-1d7b-4d4a-9372-b3c1d7cc3fbf%2F15.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+          "publishedAt": "2023-07-05T06:37:44Z",
+          "content": "The two judges on the division bench, Justices Nisha Banu and D Bharatha Chakravarthy had agreed on the aspect of maintainability but they differed on the issue of the powers of the ED to seek custod… [+388 chars]"
+        },
+        {
+          "source": { "id": null, "name": "The Tribune India" },
+          "author": "The Tribune India",
+          "title": "Madhya Pradesh man arrested after video of him peeing on tribal goes viral - The Tribune India",
+          "description": null,
+          "url": "https://www.tribuneindia.com/news/nation/madhya-pradesh-man-arrested-after-video-of-him-peeing-on-tribal-goes-viral-522976",
+          "urlToImage": null,
+          "publishedAt": "2023-07-05T06:18:00Z",
+          "content": null
+        },
+        {
+          "source": { "id": null, "name": "Pib.gov.in" },
+          "author": null,
+          "title": "Press Information Bureau - PIB",
+          "description": "Prime Minister Shri Narendra Modi will undertake a visit covering four states on 7-8th July, 2023. H",
+          "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1937425",
+          "urlToImage": "https://164.100.158.168/images/indian-emblem.png",
+          "publishedAt": "2023-07-05T06:18:00Z",
+          "content": "PM to visit Chhattisgarh and Uttar Pradesh on 7th July; Telangana and Rajasthan on 8th JulyPM to dedicate and lay foundation stone of projects worth around Rs 7500 crores in Raipur\r\nIn a major push t… [+13710 chars]"
+        }
+      ]
+    }
+  ]
+}
